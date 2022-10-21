@@ -1,0 +1,48 @@
+body {
+	background-color:green;
+	font-family: cursive;
+}
+
+
+
+
+
+yt-formatted-string{background-color:black;
+
+}
+
+main{
+	width: 70%;
+	padding: 50px;
+	background-color: black;
+	margin: auto;
+	display: flex;
+	flex-wrap: wrap;
+	justify-self: center;
+	box-shadow: 0 0 10px 1px rgba(0, 0, 0, 0.2);
+
+}
+
+div{
+	margin: 10px;
+	width: calc(50% - 40px) ;
+	height: calc((35vw - 40px));
+	background: yellow;
+	transition: all 1s ease;
+}
+
+
+h1 {
+	widows: 100%;
+	font-size: 40px;
+	text-align: center;
+
+}
+
+.new1 {
+	background-image: url(Capture_00027-768x1294.jpg);
+}
+
+div:hover{
+	transform: rotate(3600deg)scale(3.07);
+}
